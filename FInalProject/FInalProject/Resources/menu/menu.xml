@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:id="@+id/action_pickPuzzle"
+      android:title="pick puzzle"
+      android:orderInCategory="200"
+      android:showAsAction="never"
+      />
+  <item
+      android:id="@+id/action_results"
+      android:title="results"
+      android:orderInCategory="300"
+      android:showAsAction="never"
+      />
+  <item
+      android:id="@+id/action_statistics"
+      android:title="statistics"
+      android:orderInCategory="300"
+      android:showAsAction="never"
+      />
+</menu>
